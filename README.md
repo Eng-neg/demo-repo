@@ -16,4 +16,4 @@ python game.py
 print("Hello")
 ```
 
-hello 'print("Hello")
+hello `print("Hello")`
