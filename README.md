@@ -15,3 +15,5 @@ Watch tutorial on Youtube
 python game.py
 print("Hello")
 ```
+
+hello 'print("Hello")
